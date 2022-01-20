@@ -1,4 +1,4 @@
-P.S. If you don't have node js packet manager installed, please kindly install npm properly with npm install command on source path
+P.S. If you don't have node js packet manager installed, please kindly install npm properly with "npm install" command on source path
 
 # Getting Started with Create React App
 
